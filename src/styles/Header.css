@@ -1,0 +1,19 @@
+
+.custom-btn {
+    background: #fff;
+    color: #757272;
+    
+    margin-left: 1.2rem;
+    text-transform: uppercase;
+  }
+  
+  .custom-btn:hover {
+    color: #fff;
+    color:black;
+  }
+
+  .logotext {
+    margin-top: 5%;
+    font-size: 20px;
+    color: #757272;
+  }
