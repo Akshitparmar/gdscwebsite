@@ -1,0 +1,102 @@
+.abouth1{
+    margin-top: 12%;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: -2%;
+
+}
+
+.aboutcontainer{
+ border:  5px solid black; 
+ border-radius: 15px;
+ margin-top: 3%;
+ width: 100%;
+ margin-left: 10% !important;
+  
+    
+}
+
+
+
+.abouttext{
+    width: 50%;
+    font-size: x-large;
+    font-weight:bold;
+    margin-top: 0.2%;
+}
+
+.aboutcolorimg{
+    width: 839px;
+    height: 604px;
+    margin-top: -65%;
+   margin-left: auto;
+   margin-right: auto;
+   
+    opacity: 0.3;
+
+}
+.aboutcolorimg1{
+    width: 839px;
+    height: 604px;
+    margin-top: -30%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: -1.5%;
+    opacity: 0.3;
+
+}
+
+.puzzelimg{
+    margin-top: -50%;
+    margin-left: 50%;
+    width: 510px;
+
+}
+
+.aboutimg3{
+    margin-top: -40%;
+    height: 600px;
+    margin-left: 20%;
+    margin-bottom: 17%;
+    opacity: 0.3;
+}
+@media only screen and (max-width: 768px) {
+ 
+.aboutcontainer{
+    margin-top: 5%;
+    text-align: center;
+    width: 380px;
+    
+}
+.aboutcolorimg{
+    width:435px;
+    margin-top: -120%;
+}
+.aboutcolorimg1{
+    width:435px;
+    margin-top: -100%;
+   height: 500px;
+   margin-bottom: -5%;
+ 
+}
+.aboutimg3{
+    width:40px;
+}
+.puzzelimg{
+    width:360px;
+    margin-left: 13%;
+    height: 200px;
+    
+}
+
+.abouttext{
+    width: 100%;
+    font-size:medium;
+}
+.abouth1{
+    font-size: 40px;
+    margin-top: 25%;
+    text-align: center;
+}
+
+}

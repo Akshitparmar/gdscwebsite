@@ -1,0 +1,44 @@
+.homeimage{
+    width: 1680px;
+    height: 700px;
+    mask-image:linear-gradient(black 70%, transparent);
+    
+
+}
+
+.hometext{
+    position: relative;
+    margin-top: -19%;
+    margin-left: 48%;
+     color: rgba(0, 0, 0, 0.133) !important;
+}
+.homeh1{
+    margin-top: 19%;
+    margin-left: 10%;
+    font-size: 350%;
+    color:rgba(42, 40, 42, 0.133) !important;
+   
+}
+
+@media only screen and (max-width: 768px) {
+    .homeimage{
+        width:400px;
+        height:380px;
+        margin-top:20%;
+        margin-left: 8%;
+    }
+    .hometext{
+        margin-top: -40%;
+        margin-left: 50%;
+        font-size: small;
+    }
+
+    .homeh1{
+        margin-top: 50%;
+        font-size: xx-large;
+        margin-left: 16%;
+        text-align:center;
+
+    }
+
+  }

@@ -1,0 +1,35 @@
+.terms-content {
+    padding: 10% 10%;
+  }
+  .terms-heading {
+    text-align: center;
+    justify-content: center;
+    color: #533972;
+  }
+  .terms-main-heading {
+    font-size: 6rem;
+    padding-bottom: 4%;
+  }
+  .sub-heading-terms {
+    font-size: 2.3rem;
+    color: #484796;
+    padding-top: 3rem;
+  }
+  .terms-paragraph {
+    font-size: 1.5rem;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .terms-content {
+      margin: 17% 10%;
+    }
+    .terms-main-heading {
+      font-size: 185%;
+    }
+    .sub-heading-terms {
+      font-size: 120%;
+    }
+    .terms-paragraph {
+      font-size: 85%;
+    }
+  }

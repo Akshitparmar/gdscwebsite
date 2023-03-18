@@ -1,0 +1,70 @@
+.team-page {
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 0%;
+  }
+  
+  .team-con {
+    background-color: black;
+  }
+  .main-team-heading {
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+    color: white;
+  }
+  .col-md-4 {
+    margin-bottom: 1rem;
+  }
+  .team-sub-heading{
+    color: white;
+  }
+  
+  .card {
+    padding: 1rem;
+    border: solid 1px rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+    height: 400px;
+    background-color: black;
+  }
+  .card:hover {
+    box-shadow: 0 0 12px 3px rgb(100, 100, 101);
+  }
+  .card-title {
+    margin-top: 1.2rem;
+    color: white;
+  }
+  .card-text {
+    font-size: 14px;
+    color: white;
+    
+  }
+  .card-text .fa {
+    font-size: 26px;
+  }
+  .avatar {
+    width: 190px;
+    margin: auto;
+  }
+  .avatar img {
+    border: solid 6px transparent;
+    border-radius: 5%;
+  }
+  .card:hover .avatar img {
+    border-color: #9b969b;
+  }
+  
+  .btn {
+    border-radius: 25px;
+  }
+  
+
+  
+  .team-sub-heading {
+    padding: 7%;
+  }
+  
+  @media only screen and (max-width: 900px) {
+    .main-team-heading {
+      margin-top: 3rem;
+    }
+  }

@@ -1,0 +1,14 @@
+.footer-container {
+    background-color: rgb(57, 57, 57);
+  }
+  
+  a {
+    text-decoration: none;
+    color: #d3d3d3;
+  }
+
+
+.footerimage{
+    width: auto;
+    margin-top: -10%;
+}

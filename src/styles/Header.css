@@ -1,4 +1,7 @@
-
+*{
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
 .custom-btn {
     background: #fff;
     color: #757272;
@@ -16,4 +19,13 @@
     margin-top: 5%;
     font-size: 20px;
     color: #757272;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .logotext{
+      font-size: 70%;
+    }
+    *{
+      margin-left: -2%;
+    }
   }

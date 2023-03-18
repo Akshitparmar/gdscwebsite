@@ -1,0 +1,58 @@
+.work-container {
+    /*border: 5px solid black;*/
+    border-radius: 15px;
+    
+    margin: 7rem auto;
+    margin-left: 10% !important;
+    /*background-color: rgb(184, 239, 239); */
+  }
+  
+  .main-heading {
+
+    font-weight: bolder;
+    padding-bottom: 2.5rem;
+    margin-left: 5%;
+  }
+  
+  .fontawesome-style {
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
+  }
+  
+  .sub-heading {
+    padding-bottom: 2rem;
+    margin-left: 16%;
+  
+    margin-top: 0%;
+    text-decoration: underline;
+   
+  }
+
+  .sub-sub-heading{
+    margin-left: 12%;
+    font-weight: bolder;
+    font-size: large;
+    margin-top: 6%;
+   
+  }
+  @media only screen and (max-width: 768px) {
+    .work-container{
+        width: 380px;
+        
+
+
+    }
+    .sub-heading {
+      text-align: center;
+    }
+    .sub-sub-heading{
+      text-align: center;
+
+    }
+
+    .main-heading{
+      
+      text-align: center;
+    }
+    
+  }

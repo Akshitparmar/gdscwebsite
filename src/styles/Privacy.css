@@ -1,0 +1,38 @@
+.privacy-content {
+    padding: 10% 10%;
+  }
+  .privacy-heading {
+    text-align: center;
+    justify-content: center;
+    color: #533972;
+  }
+  .privacy-main-heading {
+    font-size: 6rem;
+    padding-bottom: 4%;
+  }
+  .sub-heading-privacy {
+    font-size: 2.3rem;
+    color: #484796;
+    padding-top: 3rem;
+  }
+  .privacy-paragraph {
+    font-size: 1.5rem;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .privacy-content {
+      margin: 17% 8%;
+    }
+    .privacy-main-heading {
+      font-size: 250%;
+    }
+    .privacy-main-heading {
+      font-size: 250%;
+    }
+    .sub-heading-privacy {
+      font-size: 120%;
+    }
+    .privacy-paragraph {
+      font-size: 80%;
+    }
+  }
