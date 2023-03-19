@@ -24,8 +24,7 @@
     margin-left: 16%;
   
     margin-top: 0%;
-    text-decoration: underline;
-   
+    
   }
 
   .sub-sub-heading{
@@ -38,21 +37,33 @@
   @media only screen and (max-width: 768px) {
     .work-container{
         width: 380px;
+        margin-left: -5%;
         
 
 
     }
     .sub-heading {
       text-align: center;
+      margin-left: -4%;
+      font-style:initial;
+      font-weight: bolder;
+      color: grey;
+      font-size: 35px;
     }
     .sub-sub-heading{
       text-align: center;
+      margin-left: -2%;
+      border: 2px solid black ;
+      border-radius: 10px;
+      padding: 10%;
+      background-color: lightgrey
 
     }
 
     .main-heading{
       
       text-align: center;
+      margin-left: -4%;
     }
     
   }
