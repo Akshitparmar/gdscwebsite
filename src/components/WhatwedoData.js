@@ -9,7 +9,7 @@ const workapi = [
       id: 2,
       logo: "fas fa-users",
       title: "Community",
-      info: "We believe in exapanding the network worldwide ",
+      info: "We believe in expanding the network worldwide ",
     },
     {
       id: 3,
