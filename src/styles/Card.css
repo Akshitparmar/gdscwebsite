@@ -5,18 +5,18 @@
   }
   
   .team-con {
-    background-color: black;
+    background-color: white;
   }
   .main-team-heading {
     padding-top: 6rem;
     padding-bottom: 2rem;
-    color: white;
+    color: black;
   }
   .col-md-4 {
     margin-bottom: 1rem;
   }
   .team-sub-heading{
-    color: white;
+    color: black;
   }
   
   .card {
@@ -24,18 +24,18 @@
     border: solid 1px rgba(0, 0, 0, 0.08);
     cursor: pointer;
     height: 400px;
-    background-color: black;
+    background-color: #FFDAB9;
   }
   .card:hover {
     box-shadow: 0 0 12px 3px rgb(100, 100, 101);
   }
   .card-title {
     margin-top: 1.2rem;
-    color: white;
+    color: black;
   }
   .card-text {
     font-size: 14px;
-    color: white;
+    color: black;
     
   }
   .card-text .fa {
