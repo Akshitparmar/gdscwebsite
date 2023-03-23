@@ -8,7 +8,7 @@ import Samriddhi from "../assets/Teams/Samriddhi.jpg";
 const sdata = [
     {
       id: 1,
-      name: "Aryan goyal",
+      name: "Aryan Goyal",
       imageURL: Aryan,
       title: "GDSC Lead",
     },
