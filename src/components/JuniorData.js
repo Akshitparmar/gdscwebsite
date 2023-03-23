@@ -11,8 +11,8 @@ import Hemant from "../assets/Teams/Hemant.jpg";
 import Kinshuk from "../assets/Teams/Kinshuk.jpg";
 import Shivani from "../assets/Teams/Shivani.jpg";
 import Vaibhav from "../assets/Teams/Vaibhav.jpg";
-import dhruv from "../assets/Teams/dhruv.jpg";
-import vatsala from "../assets/Teams/vatsala.jpg";
+import Dhruv from "../assets/Teams/Dhruv.jpg";
+import Vatsala from "../assets/Teams/Vatsala.jpg";
 
 
 
@@ -104,13 +104,13 @@ const jdata = [
   {
     id:14,
     name:"Dhruv Kalra",
-    imageURL: dhruv,
+    imageURL: Dhruv,
     title:"Core member",
   },
   {
     id:15,
     name:"Vatsala",
-    imageURL: vatsala,
+    imageURL: Vatsala,
     title:"Core member",
   }
     
