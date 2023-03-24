@@ -13,7 +13,7 @@ import Shivani from "../assets/Teams/Shivani.jpg";
 import Vaibhav from "../assets/Teams/Vaibhav.jpg";
 import Dhruv from "../assets/Teams/Dhruv.jpg";
 import Vatsala from "../assets/Teams/Vatsala.jpg";
-
+import hemant1 from "../assets/Teams/hemant1.jpg";
 
 
 
@@ -73,7 +73,7 @@ const jdata = [
   {
     id: 8,
     name: "Hemant Tyagi",
-    imageURL: Hemant,
+    imageURL: hemant1,
     title: "Core member",
   },
   {
